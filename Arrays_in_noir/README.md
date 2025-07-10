@@ -19,3 +19,4 @@ Then navigate to any example folder and run:
 nargo execute
 
 ```
+> 📎 For full lecture notes, see the [Lecture 110 PDF](https://github.com/cypriansakwa/noir-made-simple/blob/master/Arrays_in_noir/Lecture%20110.pdf).
