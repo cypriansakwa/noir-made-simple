@@ -18,3 +18,4 @@ Then navigate to each example. Inside each example folder, run:
 ```bash
 nargo execute 
 ```
+> 📎 For full lecture notes, see the [Lecture 111 PDF](https://github.com/cypriansakwa/noir-made-simple/blob/master/Vectors_in_noir/Lecture%20111.pdf)
