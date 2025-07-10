@@ -42,3 +42,5 @@ chmod +x run_query.sh
 - Creating your own lookup for students & grades.
 - Simulating value updates and deletions.
 - Building word counters from public inputs
+
+> 📎 For full lecture notes, see the [Lecture 110 PDF](https://github.com/cypriansakwa/noir-made-simple/blob/master/Key-Value_Maps_in_noir/Lecture112.pdf)
