@@ -1,4 +1,4 @@
-# Some_Lessons — Noir Examples for Teaching ZK
+# Noir Made Simple — Noir Examples for Teaching ZK
 
 This repository is **under active development** as part of an ongoing teaching series on zero-knowledge programming using [Noir](https://noir-lang.org/).
 
