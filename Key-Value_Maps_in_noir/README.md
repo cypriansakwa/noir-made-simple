@@ -32,7 +32,6 @@ echo 'key = "theme   "' > Prover.toml
 
 # 3. Execute the Noir circuit
 nargo execute
-```
 ## 🛠️ Optional: Use Shell Script
 ```bash
 chmod +x run_query.sh
@@ -42,4 +41,4 @@ chmod +x run_query.sh
 ## 📦 Topics for Practice
 - Creating your own lookup for students & grades.
 - Simulating value updates and deletions.
-- Building word counters from public inputs.
+- Building word counters from public inputs
