@@ -1,5 +1,5 @@
 [package]
-name = "Set_Membership_Proofs"
+name = "noir_range_proof_circuit"
 type = "bin"
 authors = [""]
 

@@ -1,0 +1,6 @@
+[package]
+name = "noir_3_colorable_graph_zkp"
+type = "bin"
+authors = [""]
+
+[dependencies]

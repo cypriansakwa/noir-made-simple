@@ -1,7 +1,4 @@
 [inputs]
-secret_country = 42
-set0 = 1
-set1 = 2
-set2 = 42
-set3 = 4
-set4 = 5
+age = 70
+max_age = 120
+min_age = 50

@@ -1,0 +1,3 @@
+[submodule "ZK-Proof-Patterns-in-Noir/Set_Membership_Proofs/contract/lib/forge-std"]
+	path = ZK-Proof-Patterns-in-Noir/Set_Membership_Proofs/contract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

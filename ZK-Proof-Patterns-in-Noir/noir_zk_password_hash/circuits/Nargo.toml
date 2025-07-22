@@ -1,0 +1,6 @@
+[package]
+name = "noir_zk_password_hash"
+type = "bin"
+authors = ["cypriansakwa"]
+
+[dependencies]

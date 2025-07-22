@@ -1,14 +1,14 @@
 struct Inputs {
-    secret_country: Field,
-    pub set0: Field,
-    pub set1: Field,
-    pub set2: Field,
-    pub set3: Field,
-    pub set4: Field,
+    secret_country: Field, // kept private
+    set0: Field,           //  now private
+    set1: Field,
+    set2: Field,
+    set3: Field,
+    set4: Field,
 }
 
 fn main(inputs: Inputs) {
-    // Compare secret_country to each public set element
+    // Compare secret_country to each set element
     let cond0 = inputs.secret_country == inputs.set0;
     let cond1 = inputs.secret_country == inputs.set1;
     let cond2 = inputs.secret_country == inputs.set2;
@@ -24,10 +24,9 @@ fn main(inputs: Inputs) {
 
     let sum = cond0_field + cond1_field + cond2_field + cond3_field + cond4_field;
 
-    // Enforce that secret_country is in the public set
+    // Enforce that secret_country is in the set
     assert(sum != 0);
 }
-// This file assumes it's part of a Noir project with `src/main.nr` containing your main logic
 
 #[test]
 fn test_secret_country_in_set() {
