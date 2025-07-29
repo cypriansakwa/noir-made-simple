@@ -12,3 +12,9 @@
 
 #!.yarn/cache
 .pnp.*
+**/cache/
+**/lib/
+**/out/
+**/.yarn/
+**/node_modules/
+git rm -r --cached contract/cache
