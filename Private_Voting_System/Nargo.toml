@@ -1,0 +1,6 @@
+[package]
+name = "Private_Voting_System"
+type = "bin"
+authors = [""]
+
+[dependencies]

@@ -160,6 +160,7 @@ nargo execute
 # Generate proof with keccak hash
 bb prove -b ./target/noir_3_colorable_graph_zkp.json -w target/noir_3_colorable_graph_zkp.gz -o ./target --oracle_hash keccak
 
+
 # Run Foundry test to verify proof
 cd ..
 (cd contract && forge test --optimize --optimizer-runs 5000 --gas-report -vvv)
