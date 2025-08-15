@@ -1,0 +1,6 @@
+[package]
+name = "zk_webapp_noir"
+type = "bin"
+authors = [""]
+
+[dependencies]
