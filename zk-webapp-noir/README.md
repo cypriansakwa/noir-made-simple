@@ -108,10 +108,5 @@ Open this link in your browser.
 
 ---
 
-## License
-
-MIT
-
----
 
 **Happy proving! 🕵️‍♂️✨**
