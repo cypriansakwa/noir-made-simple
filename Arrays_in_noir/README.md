@@ -7,7 +7,7 @@ This lesson introduces how to use fixed-size arrays in Noir circuits.
 - Declaring and initializing arrays
 - Accessing elements with indexing (`arr[i]`)
 - Performing computations over arrays
-- Writing constraints involving array values
+- Writing constraints involving array values.
 
 ### 🛠️ How to Run
 
