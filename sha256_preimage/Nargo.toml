@@ -1,0 +1,6 @@
+[package]
+name = "sha256_preimage"
+type = "bin"
+authors = [""]
+
+[dependencies]
