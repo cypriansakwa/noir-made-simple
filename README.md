@@ -85,7 +85,7 @@ Open this link in your browser.
   yarn add @aztec/bb.js@0.84.0 @noir-lang/noir_js@1.0.0-beta.6
   ```
 
-- **Vite can't find dependencies (Yarn PnP issues)?**  
+- **Vite can't find dependencies (Yarn PnP issues)?** . 
   Switch to classic `node_modules` linker:  
   ```bash
   yarn config set nodeLinker node-modules
